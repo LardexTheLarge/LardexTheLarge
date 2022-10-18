@@ -1,4 +1,25 @@
-### Hi there 👋
+```javascript
+const aboutMe = {
+    code: [Javascript, HTML, CSS],
+    technologies: {
+        frontEnd: {
+            js:[React],
+            css: ["Bootstrap"],
+            templates: ["Handlebars"]
+        },
+        backEnd: {
+            js: ["Node", "Express"]
+            misc:[GraphQL]
+        },
+    },
+
+    databases: ["MongoDB", "mySQL"],
+
+    currentChallenges: ["Socket", "React"]
+};
+```
+
+![Code Wars](https://www.codewars.com/users/Lardex/badges/large)
 
 <!--
 **LardexTheLarge/LardexTheLarge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
