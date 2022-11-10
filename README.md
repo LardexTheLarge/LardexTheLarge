@@ -11,11 +11,12 @@ const aboutMe = {
             js: ["Node", "Express"]
             misc:[GraphQL]
         },
+        other: [Socket.io]
     },
 
     databases: ["MongoDB", "mySQL"],
 
-    currentChallenges: ["Socket", "React"]
+    currentChallenges: ["AWS", "React"]
 };
 ```
 
