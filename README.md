@@ -1,6 +1,6 @@
 ```javascript
 const aboutMe = {
-    code: [Javascript, HTML, CSS],
+    code: [Python, Javascript, HTML, CSS],
     technologies: {
         frontEnd: {
             js:[React],
@@ -8,15 +8,16 @@ const aboutMe = {
             templates: ["Handlebars"]
         },
         backEnd: {
-            js: ["Node", "Express"]
-            misc:[GraphQL]
+            js: ["Node", "Express"],
+            py: ["sklearn", Pandas, Prophet, ],
+            misc:[GraphQL, Tableau]
         },
-        other: [Socket.io]
+        other: [Socket.io, AWS]
     },
 
     databases: ["MongoDB", "mySQL"],
 
-    currentChallenges: ["AWS", "React"]
+    currentChallenges: [AI, SQL, Data Analysis]
 };
 ```
 
